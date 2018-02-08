@@ -2,10 +2,6 @@
 layout: home-page
 ---
 
-    <!--<div class="post-card">
-      <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
-      </a>-->
-
 
   <section class="tiles">
 
@@ -34,15 +30,11 @@ layout: home-page
       		</span>
       		<!--a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}"-->
       			<a><h2 class="post_title">coming soon</h2></a>
-      			<!--p>{{post.shown-date}}</p-->
-      			<!--div class="content">
-      				<p>Written by:{{post.author}}</p>
-      			</div-->
-          <!--/a--->
       	</article>
       {% endfor %}
 
   </section>
+  
         <!--  {% for tag in post.tags %}
           <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">|&#32;{{ tag }}</a>
           {% endfor %}
