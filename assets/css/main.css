@@ -943,13 +943,7 @@ pre code {
    right: 0;
    background-color: white; /* Black*/
    visibility: hidden;
-/* Disable horizontal scroll */
    padding-top: 60px; /* Place content 60px from the top */ /* 0.5 second transition effect to slide in the sidenav */
-}
-
-.main-nav .nav-active {
-  width: 250px !important;
-  margin-right: 250px !important;
 }
 
 .main-nav ul {

@@ -7,8 +7,6 @@ $(document).ready(function() {
     $('.main-nav').css("visibility", "visible");
     $('.main-nav').width("300px");
     $('.nav').css("padding", "30px");
-
-
   });
 
   $('.menu-icon-close').on('click', function(e){
