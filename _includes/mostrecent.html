@@ -1,0 +1,21 @@
+<section class = "mostrecent">
+  <div class= "mostrecent-pic post-card">
+    {% for post in site.posts offset:0 limit:1 %}
+    <img class="post-card-image" src="{{post.frontimage}}">
+      <a href="{{post.url | prepend: site.baseurl}}">
+      </a>
+    </img>
+  </div>
+        {% for description in post.description %}
+        <div id ="mostrecent-excerpt">
+          <h2>{{post.title}}</h2>
+          <p>{{post.date}} | {{post.author}}</p>
+          <p style="text-align: justify;">{{post.description}}</p>
+          <a style="float: right;" href="{{post.url | prepend: site.baseurl}}">Read more</a>
+
+        </div>
+        {% endfor %}
+
+    {% endfor %}
+
+</section>

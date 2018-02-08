@@ -1,0 +1,58 @@
+---
+layout: post
+title: Alex Jin
+tagline: QComm to Dropbox, Indie Hackers & Cyborgs
+date:   2018-02-07 20:00:00
+description:  Alex Jin is a 4th year Queen’s Commerce and Computer Science student who’ll be working as a product manager at Dropbox in SF post-graduation.  # Add post description (optional)
+comments: true
+image: \images\alexjin.jpg # Add image post (optional)
+post_image: \images\alexjinpost.jpg
+frontimage: \images\yosh-ginsu.jpg
+tags: [Tech]
+author: Jenny Kim & Christine Tan # Add name author (optional)
+---
+Alex Jin is a 4th year Queen’s Commerce and Computer Science student who’ll be working as a product manager at Dropbox in SF post-graduation. Alex and I have been friends for a couple of years now and the entire time I’ve known him, he’s always had a huge smile on his face and never lost his calm and composure. I’m incredibly grateful to have a friend like Alex because there have been countless times where he has given me some sage life advice or shared his unending wealth of knowledge with me. But the reason why I admire Alex so much is because he’s always defied the Queen’s Commerce status quo and forged his own path.
+
+What typically characterizes a Queen’s Commerce student’s undergraduate experience is their involvement with Comsoc extra-curriculars. But rather than following suit, Alex has been busy growing the Queen’s entrepreneurial community through Innovate Queen’s, a club aimed at exploring entrepreneurship through speakers and discussions. Instead of completing a standard biz internship at a brand name corporation, Alex has done unconventional internships with startups while working on coding side projects. It’s always difficult to go against the grain, but this is especially true in a program where there is a substantial amount of uniformity in terms of the types of extra-curriculars that your peers join, as well as the jobs they compete for.
+
+<figure>
+  <img src="{{site.url}}/images/innovatequeens.jpg" alt="Innovate Queen's Logo"/>
+  <figcaption style="text-align: center;">Check them out <a href="http://innovatequeens.com/">here</a></figcaption>
+</figure>
+
+Alex, Christine, and I often talk about things we’ve learned, books we’ve read, and a diverse array of other thought-provoking topics. I’m always fully absorbed in our conversations and come out of them with an intense curiosity to know more about everything. The highlights you’ll see below are from one particular conversation we had over bowls of pho in a local Vietnamese restaurant, but it reflects the nature of most of our conversations. Christine was kind enough to co-write this post with me to better capture our conversation.
+
+---
+
+**You did a dev internship in your 3rd year summer – most Commerce students are trying to land their dream internship at a prestigious company. How did you feel about diverting from the traditional route of your peers?**
+
+It's always hard doing something less popular because you don't have the social validation that the route is worth taking. You’re rarely ever alone though because there are many people who are also on similar journeys. It might be a little more difficult finding them but you will bump into these people as you stick to your interests. You might find this group online as you do your own research or meet them at a conference / event. I also learned an incredible amount from doing my projects and my internship which was reassuring. When it comes to careers, I find that people will establish a goal (e.g. work at this company in this role) and then work through the list of requirements (e.g. 1st year summer I should do X, 2nd year summer I should Y, etc.) There’s nothing wrong with this approach, but I feel like students (1st years) worry too early that they don’t have a plan. I think as long as you’re doing something _you’ll be fine_. You’ll learn an incredible amount from your projects and experiences and you can find a role later that meets the assortment of skills you’ve accumulated over the years.
+
+
+**Are you nervous about moving to SF?**
+
+I’m excited, but I’m wary about getting sucked into the mono-culture of the SF tech scene. I don’t want to just be a tech guy, I want to hang out with people and explore hobbies far away from what most people in tech do. I think I’m going to keep looking the other way like I am now - I’ve always valued seeing perspectives that are different from the ones that my social circle sees.
+
+**What does your future look like after Dropbox?**
+
+10 years from now, I want to be self-sufficient in the sense that I’ll own my source of income. I want to do that by launching a couple of products in niche markets. I thought a lot about building startups and products earlier in university because you can get a lot of funding, but I’ve realized I’m risk averse and there are many other ways to build things without that risk. I was actually inspired by Indie Hackers – it’s so intriguing to create something that has a useful purpose for a very small market. Especially because these are opportunities that are not attractive enough for corporations and VC-backed startups to go after. These opportunities aren’t big enough to sustain a large team of people but for one person it’s enough.
+
+![Indie Hackers]({{ "images/indiehackers.png" | absolute_url }})
+
+
+
+**What are some topics you’ve been interested in these days?**
+
+I’ve been thinking a lot about the effects of technology on our generation and those to come, especially in regards to cognition. We’re the first generation to grow up with the internet and smartphone devices and we have yet to find out what the long-term implications are of using these technologies. How will our brains be different than those who didn’t age with the technology that surrounds us today? It was only within the last 30 years that we realized that smoking was bad for our entire bodies, maybe 30 years from now, we’ll realize we need to restrict smartphone access for younger kids. Our attention spans have already declined, and the trajectory looks like it could get worse. We won’t be as inclined to remember things because we have phone apps to record our thoughts and notifications for reminders. Right now, the benefits of connectivity and productivity seem to outweigh the costs of  technological integration but we really need to consider the long-term effects. For example, creativity may suffer.
+
+Creativity is about connecting ideas in your head but if you don’t have to remember the facts, there are fewer and fewer dots to connect within your mind. We’re acting as cyborgs already, because we’re augmenting ourselves with a “memory device” in our back pockets, if not in the palm of our hands, everyday of our lives.
+
+In the past, when we only had access to limited information via books or other people, we would examine this information more deeply to make more connections. Because the information was limited, we’d talk about it more, think about it more, but will that suffer? We have too much access to too many resources, so the breadth of knowledge we have is exponentially expanding but it’s the depth of thought that might suffer.
+
+> We’re acting as cyborgs already, because we’re augmenting ourselves with a “memory device” in our back pockets, if not in the palm of our hands, everyday of our lives.
+
+**Sapiens, by Yuval Noah Hariri, talks about humans’ development in the sciences. The pattern demonstrates that technology first targets the ill, the people who need it the most before reaching the masses. For example, surgeries began as a medical procedure to improve a body’s functionality or investigate disease/illness. But it was not only for the ill. Today, we see a billion-dollar plastic surgery industry. We also see the beginnings and fast advancements in the prosthetics market, what do you think about cyborgs in our lifetime? Where the prosthetic technology becomes so life-like, we start seeing athletes replacing their limbs with the “better model”?**
+
+I feel like the elderly could be the first to transform into cyborgs before the youth. People might want to take this opportunity to adventure into experiences they were limited by in the past, or to take on more physical activity that wasn’t possible before (like hike more mountains). So, cyborgs in this lifetime? Possibly.
+
+_I love feedback! Please let me know how I can make my posts more interesting or if you know any awesome people I can talk to. Email me at <a href="mailto: jennytkim@gmail.com">jennytkim@gmail.com</a>_
