@@ -859,7 +859,7 @@ pre code {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
-.content {
+.content
   -webkit-box-flex: 1;
   -webkit-flex-grow: 1;
       -ms-flex-positive: 1;
@@ -935,7 +935,7 @@ pre code {
 }
 
 .main-nav {
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   z-index: 10;
@@ -943,8 +943,8 @@ pre code {
   height: 100%;
   background-color: #fff;
   padding: 25px 30px;
-  -webkit-transform: translate3d(1270px, 0, 0);
-          transform: translate3d(1270px, 0, 0);
+  -webkit-transform: translate3d(420%, 0, 0);
+          transform: translate3d(420%, 0, 0);
 }
 
 .main-nav ul {
@@ -1866,6 +1866,9 @@ pre code {
 .page-image {
   -webkit-animation-delay: 0.5s;
           animation-delay: 0.5s;
+          width: 93%;
+          margin: 0 auto;
+
 }
 
 .page-content,
@@ -1920,7 +1923,7 @@ pre code {
 @media only screen and (max-width: 1024px) {
 
 .wrapper {
-    max-width: 85% !important;
+    max-width: 100% !important;
   }
 
   .flex-container.active {
