@@ -844,8 +844,8 @@ pre code {
 }
 
 .flex-container.active {
-  -webkit-transform: translate3d(-40%, 0, 0);
-          transform: translate3d(-40%, 0, 0);
+  -webkit-transform: translate3d(-300px, 0, 0);
+          transform: translate3d(-300px, 0, 0);
 }
 
 .flex-container.active::after {
@@ -935,16 +935,21 @@ pre code {
 }
 
 .main-nav {
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 10;
-  width: 300px;
-  height: 100%;
-  background-color: #fff;
-  padding: 25px 30px;
-  -webkit-transform: translate3d(420%, 0, 0);
-          transform: translate3d(420%, 0, 0);
+  height: 100%; /* 100% Full-height */
+   width: 0; /* 0 width - change this with JavaScript */
+   position: fixed; /* Stay in place */
+   z-index: 1 !important; /* Stay on top */
+   top: 0; /* Stay at the top */
+   right: 0;
+   background-color: white; /* Black*/
+   visibility: hidden;
+/* Disable horizontal scroll */
+   padding-top: 60px; /* Place content 60px from the top */ /* 0.5 second transition effect to slide in the sidenav */
+}
+
+.main-nav .nav-active {
+  width: 250px !important;
+  margin-right: 250px !important;
 }
 
 .main-nav ul {
@@ -1073,8 +1078,8 @@ pre code {
 
 .icon-close-container {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 30px;
+  right: 30px;
 }
 
 /* ================ most recent post ================*/
@@ -1470,6 +1475,7 @@ pre code {
   font-weight: 600 !important;
   letter-spacing: 0.1em;
   text-transform: uppercase;
+  margin-top: 2em;
 
 }
 
@@ -1907,11 +1913,6 @@ pre code {
 /* = = = = = = = = = = Media = = = = = = = = = = */
 /* Small Devices, Tablets */
 @media only screen and (min-width: 2000px) and (max-width: 3000px) {
-  .main-nav {
-    visibility: visible;
-  -webkit-transform: translate3d(800%, 0, 0) !important;
-          transform: translate3d(800%, 0, 0) !important;
-  }
 
   .flex-container.active {
     -webkit-transform: translate3d(-100%, 0, 0);
@@ -1924,17 +1925,6 @@ pre code {
 
 .wrapper {
     max-width: 100% !important;
-  }
-
-  .flex-container.active {
-    -webkit-transform: translate3d(-100%, 0, 0);
-            transform: translate3d(-100%, 0, 0);
-  }
-
-  .main-nav {
-    visibility: visible;
-  -webkit-transform: translate3d(380%, 0, 0) !important;
-          transform: translate3d(380%, 0, 0) !important;
   }
 
   .tiles article {
@@ -1974,11 +1964,6 @@ pre code {
 }
 
 @media only screen and (max-width: 768px) {
-  .main-nav {
-    visibility: visible;
-  -webkit-transform: translate3d(250%, 0, 0) !important;
-          transform: translate3d(250%, 0, 0) !important;
-  }
 
   .tiles article {
     width: 60% !important;
@@ -2003,12 +1988,6 @@ pre code {
   .tiles article {
     width: 80% !important;
     margin: 1.5em 0 0 1.5em !important;
-  }
-
-  .main-nav {
-    visibility: visible;
-  -webkit-transform: translate3d(150%, 0, 0) !important;
-          transform: translate3d(150%, 0, 0) !important;
   }
 
   .wrapper {
