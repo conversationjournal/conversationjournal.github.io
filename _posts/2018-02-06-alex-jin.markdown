@@ -43,7 +43,9 @@ I’m excited, but I’m wary about getting sucked into the mono-culture of the 
 
 **What are some topics you’ve been interested in these days?**
 
-I’ve been thinking a lot about the effects of technology on our generation and those to come, especially in regards to cognition. We’re the first generation to grow up with the internet and smartphone devices and we have yet to find out what the long-term implications are of using these technologies. How will our brains be different than those who didn’t age with the technology that surrounds us today? It was only within the last 30 years that we realized that smoking was bad for our entire bodies, maybe 30 years from now, we’ll realize we need to restrict smartphone access for younger kids. Our attention spans have already declined, and the trajectory looks like it could get worse. We won’t be as inclined to remember things because we have phone apps to record our thoughts and notifications for reminders. Right now, the benefits of connectivity and productivity seem to outweigh the costs of  technological integration but we really need to consider the long-term effects. For example, creativity may suffer.
+I’ve been thinking a lot about the effects of technology on our generation and those to come, especially in regards to cognition. We’re the first generation to grow up with the internet and smartphone devices and we have yet to find out what the long-term implications are of using these technologies. How will our brains be different than those who didn’t age with the technology that surrounds us today? It was only within the last 30 years that we realized that smoking was bad for our entire bodies, maybe 30 years from now, we’ll realize we need to restrict smartphone access for younger kids.
+
+Our attention spans have already declined, and the trajectory looks like it could get worse. We won’t be as inclined to remember things because we have phone apps to record our thoughts and notifications for reminders. Right now, the benefits of connectivity and productivity seem to outweigh the costs of  technological integration but we really need to consider the long-term effects. For example, creativity may suffer.
 
 Creativity is about connecting ideas in your head but if you don’t have to remember the facts, there are fewer and fewer dots to connect within your mind. We’re acting as cyborgs already, because we’re augmenting ourselves with a “memory device” in our back pockets, if not in the palm of our hands, everyday of our lives.
 
@@ -57,7 +59,7 @@ I feel like the elderly could be the first to transform into cyborgs before the 
 
 **Alex’s favourite sources of content**
 * News and blogs: <a href="https://news.ycombinator.com">HackerNews</a>, <a href="https://stratechery.com">Stratechery</a>, <a href="https://www.ben-evans.com/">Benedict Evans</a>
-* Podcasts: <a href="http://www.acquired.fm/">Acquired</a>, <a href="http://exponent.fm/">Exponent</a> for tech but listen to a variety to keep yourself thinking broadly, e.g. classics like This American Life 
+* Podcasts: <a href="http://www.acquired.fm/">Acquired</a>, <a href="http://exponent.fm/">Exponent</a> for tech but listen to a variety to keep yourself thinking broadly, e.g. classics like This American Life
 * <a href="https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q">YouTube: Flux by Ran Segall</a>, he's a freelance designer who makes videos almost everyday sharing some of his thoughts
 
 _I love feedback! Please let me know how I can make my posts more interesting or if you know any awesome people I can talk to. Email me at <a href="mailto: jennytkim@gmail.com">jennytkim@gmail.com</a>_

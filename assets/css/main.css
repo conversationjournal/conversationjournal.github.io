@@ -1730,7 +1730,6 @@ pre code {
 
 .about-header {
   position: relative;
-  text-align: center;
   padding-bottom: 30px;
   margin-bottom: 30px;
 }
@@ -1762,6 +1761,7 @@ pre code {
   color: #311e3e;
   font-weight: 300;
   margin: 0;
+  text-align: left;
 }
 
 .about-body .contact-list {
