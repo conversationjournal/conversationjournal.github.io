@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Alex Jin
-tagline: QComm to Dropbox, Indie Hackers & Cyborgs
+title: Alex Jin&#58; QComm to Dropbox, Indie Hackers & Cyborgs
 date:   2018-02-07 20:00:00
 description:  Alex Jin is a 4th year Queen’s Commerce and Computer Science student who’ll be working as a product manager at Dropbox in SF post-graduation.  # Add post description (optional)
 comments: true
 image: \images\alexjin.jpg # Add image post (optional)
 post_image: \images\alexjinpost.jpg
-frontimage: \images\yosh-ginsu.jpg
 tags: [Tech]
 author: Jenny Kim & Christine Tan # Add name author (optional)
 ---

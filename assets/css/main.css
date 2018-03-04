@@ -1234,6 +1234,12 @@ pre code {
       text-decoration: none;
       z-index: 3;
       overflow: hidden;
+      background-color: rgba(0,0,0,0.4);
+    }
+
+    .content p {
+      position: relative;
+      bottom: 20px;
     }
 
       .tiles article > a > :last-child {
@@ -1246,6 +1252,7 @@ pre code {
 
       .tiles article > a h2 {
         margin: 0;
+        font-size: 20px;
       }
 
       .tiles article > a .content {
