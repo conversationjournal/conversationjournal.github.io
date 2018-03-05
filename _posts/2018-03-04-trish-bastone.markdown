@@ -66,3 +66,5 @@ Etsy is becoming very saturated and it’s a changing marketplace. They now allo
 That’s a hard question for me - based on the person I am and just the fact that I don’t say no to an opportunity, if something amazing comes up I’m going to take it.
 On the business side, I would like to open up 5 new locations in 5 years – expanding away from Toronto to other major cities and only bringing in makers from that city.
 On a personal level, I would love to build myself a tiny home and continue not having a real job. My only goal in life is to not have a real job. I’d rather work 80 hours for myself instead of 40 hours for someone else. I want to live simply, but maybe also become a crypto millionaire haha.
+
+_I love feedback! Please let me know how I can make my posts more interesting or if you know any awesome people I can talk to. Email me at <a href="mailto: jennytkim@gmail.com">jennytkim@gmail.com</a>_
