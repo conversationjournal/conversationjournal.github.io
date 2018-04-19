@@ -1974,7 +1974,12 @@ pre code {
   }
 
   .tiles article > .image {
-    max-height: 250px;
+    max-height: 250px !important;
+  }
+
+  .tiles article > a {
+    max-height: 250px !important;
+    top: 30px;
   }
 
 }
@@ -1982,13 +1987,10 @@ pre code {
 
 @media only screen and (max-width: 480px) {
 
-  .tiles article > .image {
-    max-height: 300px;
-  }
-
   .tiles article {
     width: 80% !important;
     margin: 1.5em 0 0 1.5em !important;
+    top: 30px !important;
   }
 
   .wrapper {
