@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  I conquer the Himalayas
+title:  More Coming Soon
 date:   2017-08-23 13:32:20 +0300
 description:  Vaporware snackwave stumptown, small batch tattooed try-hard prism fanny pack 3 wolf moon edison bulb tofu hot chicken vice. Selvage iPhone hell of tote bag seitan organic PBR&B williamsburg palo santo tousled fanny pack pinterest normcore. Lomo butcher vexillologist activated charcoal. # Add post description (optional)
-image: \images\yosh-ginsu2.jpg # Add image post (optional)
+image: \images\yosh-ginsu3.jpg # Add image post (optional)
 post_image: \images\yosh-ginsu.jpg
 frontimage: \images\yosh-ginsu.jpg
 tags: [Blog, Mountains]

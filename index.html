@@ -5,7 +5,7 @@ layout: home-page
 
   <section class="tiles">
 
-    {% for post in site.posts limit: 4 %}
+    {% for post in site.posts limit: 5 %}
       <article>
           <span class="image">
             <img src="{{post.image}}" alt=""/>
@@ -22,7 +22,7 @@ layout: home-page
 
       {% endfor %}
 
-        {% for post in site.posts offset: 4 limit:site.front-page-post %}
+        {% for post in site.posts offset: 5 limit:site.front-page-post %}
 
       	<article class="style{{ forloop.index | plus:1 }}">
       		<span class="image">
