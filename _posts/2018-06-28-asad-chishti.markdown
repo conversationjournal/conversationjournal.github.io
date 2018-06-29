@@ -66,7 +66,7 @@ He’s an incredible Portuguese poet who lost his dad and brother when he was yo
 
 * <a href="https://www.goodreads.com/book/show/4588.Extremely_Loud_and_Incredibly_Close?ac=1&from_search=true">Extremely Loud and Incredibly Close</a> by Jonathan Safran Foer
 * <a href="https://www.goodreads.com/book/show/46199.Letters_to_a_Young_Poet?from_search=true">Letters to a Young Poet</a> by Rainer Maria Rilke
-* Wizard of Earthsea by Ursula K. Le Guin
+* <a href="https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea">Wizard of Earthsea</a> by Ursula K. Le Guin
 * <a href="https://www.brainpickings.org/">Brainpickings</a>, a blog/inventory of cross-disciplinary interestingness, spanning art, science, design, history, philosophy, and more
 * <a href="https://www.buzzfeed.com/elaminabdelmahmoud">Daily newsletter</a> by Buzzfeed’s Elamin Abdelmahmoud
 * <a href="http://www.trampolinehall.net/index.html">Trampoline hall</a>, a Toronto bar-room lecture series where three lecturers jump on stage to talk about something they're not an expert in
